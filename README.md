@@ -1,4 +1,4 @@
-# Nema 17 testbench
+# Nema 17 test bench
 Welcome to this NEMA 17 Stepper Motor Test Bench repository!
 
 This 3D printable test bench offers precision, reliability, and efficiency for testing NEMA 17 stepper motors. This platform is designed to streamline your testing process, providing accurate results with ease. Whether you're fine-tuning performance or ensuring quality control.
